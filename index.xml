@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery Marins on Marins</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Gallery Marins on Marins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anoop James</title>
+      <link>https://example.org/anoop-james/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/anoop-james/</guid>
+        <media:content url="https://example.org/anoop-james/anoop-james_hu_99f4a231d4e4942d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/anoop-james/anoop-james_hu_99f4a231d4e4942d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>George</title>
+      <link>https://example.org/george/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/george/</guid>
+        <media:content url="https://example.org/george/george_hu_154c35c8bb6ac97a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/george/george_hu_154c35c8bb6ac97a.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Igor</title>
+      <link>https://example.org/igor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/igor/</guid>
+        <media:content url="https://example.org/igor/igor_hu_9a9cfc17989aba56.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/igor/igor_hu_9a9cfc17989aba56.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Jequibob</title>
+      <link>https://example.org/jequiobob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/jequiobob/</guid>
+        <media:content url="https://example.org/jequiobob/jequiobob_hu_c2574ecc05e6f177.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/jequiobob/jequiobob_hu_c2574ecc05e6f177.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Kelly Aljandro III</title>
+      <link>https://example.org/kelly-aljandro-iii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/kelly-aljandro-iii/</guid>
+        <media:content url="https://example.org/kelly-aljandro-iii/kelly-aljandro-iii_hu_52559f095c522793.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/kelly-aljandro-iii/kelly-aljandro-iii_hu_52559f095c522793.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
